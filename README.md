@@ -1,2 +1,2 @@
-# Watsup_Development
+# portfolio
 This repository is to develope chat application
